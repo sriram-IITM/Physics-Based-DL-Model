@@ -39,7 +39,8 @@ Envelope spectrum of raw signal from JNU dataset at 800 rpm (a,b,c) and CWRU dat
 <img src="https://i.imgur.com/dLsmVYG.jpg" width=80% height=80%>
 </p>
 
-
+## Conclusions
+This study proposes a physics-informed deep learning model for cross-domain bearing fault detection. The proposed model is evaluated on two public rolling bearing datasets. The need for extracting physics information-based features and their impact on machine fault detection is highlighted using induction motor operation in multiple speeds. Six cross-domain fault detection tasks are performed using three methods to prove the effectiveness and superiority of the proposed method. Results demonstrate that the proposed model is robust to varying speed conditions of the motor offering 23% better accuracy than existing data-driven methods. We also show that building a transferable deep learning model for datasets with very lesser speed variations like CWRU dataset is unnecessary. Future work will develop a generalized physics based deep learning model for cross-domain bearing fault detection at the incipient stage for continuously varying load across different machines.
 
 
 ## References 
